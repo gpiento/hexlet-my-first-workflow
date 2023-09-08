@@ -1,3 +1,3 @@
 hexlet-my-first-workflow
 
-![say-hello](https://github.com/OWNER/REPOSITORY/actions/workflows/say-hello.yml/badge.svg)
+![say-hello](https://github.com/gpiento/hexlet-my-first-workflow/actions/workflows/say-hello.yml/badge.svg)
