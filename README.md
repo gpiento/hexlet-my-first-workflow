@@ -1,2 +1,1 @@
-# hexlet-my-first-workflow
-Непрерывная интеграция (CI)
+hexlet-my-first-workflow
